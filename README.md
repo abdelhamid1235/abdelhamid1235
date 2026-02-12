@@ -16,7 +16,8 @@
 
 - 🎓 Computer Science student at **Tanta University**  
 - 💻 Full Stack Developer passionate about building responsive and user-friendly websites  
-- 🚀 I enjoy learning new technologies and improving my skills through real projects  
+- 🚀 I enjoy learning new technologies and improving my skills through real projects
+- 🚀 Keep Learning, Keep Building!
 - 🌱 Currently learning: **Front-End (React)**  
 - 👨‍💻 All of my projects: **[GitHub Profile](https://github.com/abdelhamid1235)**  
 - 📝 Articles & Posts: **[LinkedIn](https://linkedin.com/in/abdelhamid-sarhan-0b3440385)**  
@@ -58,6 +59,6 @@
 
 <hr>
 
-<h3 align="left">🚀 Keep Learning, Keep Building!</h3>
+<h3 align="center">🚀Always Learning, Always Building</h3>
 
 
