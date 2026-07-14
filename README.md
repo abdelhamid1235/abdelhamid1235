@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdelhamid Sarhan</h1>
-<h3 align="center">Full-Stack .NET Developer</h3>
+<h3 align="center">Full-Stack ( Node.js/React ) Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=650&lines=Building+Responsive+Websites;Full+Stack+.NET+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
