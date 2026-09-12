@@ -48,11 +48,6 @@
 
 <h3>📊 GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdelhamid1235&layout=compact&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdelhamid1235&show_icons=true&theme=radical&hide_border=true" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abdelhamid1235&theme=radical&hide_border=true" height="180"/>
 </p>
